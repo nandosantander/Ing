@@ -1,0 +1,106 @@
+body {background-color:#F5D0A9;}
+
+#logo {position:absolute;
+        top:-2em;
+        left:3em;
+        }
+
+#FSO {font-family:Montserrat Subrayada;
+       font-size:37px;
+       color: #406998;
+       text-align:center; }
+
+#Ingenieria {font-family:Lobster;
+             font-size:24px;
+             color: #406998;
+             margin-top:-2em; }
+
+ h1{
+   font-variant:small-caps;
+   background-color:white;
+   margin-top: 3em;
+   margin-left: -0.3em;
+   margin-right: -0.3em;
+   height: 70px;
+   border: 2px solid #244654;
+   }
+
+  a {
+     color: #1F618D;
+     font-family: modern 20;
+     font-style: italic;
+     font-size: 20px;
+     }
+
+ a:hover
+     {
+      color:#117A65;
+      letter-spacing:2px;
+
+     }
+
+
+ #menuInicio {float:left;
+              padding-left:500px;
+              margin:5px;
+              }
+ #menuPortfolio  {float:left;
+                  padding-left: 25px;
+                  margin: 5px;
+                  }
+
+ #menuSobre   { float:left;
+                padding-left:25px;
+                margin:5px;
+                }
+
+ #menuContactar  {float:left;
+                  padding-left:25px;
+                  margin:5px;
+                  }
+            
+             
+  h2 {font-family: Permanent Marker;
+       text-align: center;
+       font-size: 55px;
+       letter-spacing: 5px;
+       color:#244654;
+       }
+
+  #cajaHardware{font-family:Racing Sans One;
+                 text-align:justify;
+                 background-color:white;
+                 width:640px;
+                 height:300px;
+                 font-size:17px;
+                 border-radius:25px 10px 25px 10px;
+                 padding-top:10px;
+                 padding-left:15px;
+                 margin-top:45px;
+                 margin-left:45px;
+                 border:2px solid #00364E;
+                 box-shadow:rgb(16,33,76) 5px 5px 10px 5px;}
+               
+     main{background-color:#328FB8;
+           height:500px;        
+           margin-left:-0.5em;
+           border-top: 1px solid;
+           border-bottom:1px solid;
+           border-right:1px solid;
+           display:flex;}
+
+    #imagenDiploma{float:left;
+                   margin-top:50px;
+                   margin-left:50px;
+                   border: 1px solid;-->
+                   width:150px;
+                   height:110px; 
+                   }
+
+    #Certificado{float:left;
+                 margin-top:50px;
+                 margin-left:30px; 
+                 border: 1px solid;
+                 height:110px; }
+   
+                   

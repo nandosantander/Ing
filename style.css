@@ -1,0 +1,196 @@
+body {background-color: #F5D0A9;}
+
+
+
+@keyframes mianimacion {
+    
+    35%{transform:scale(0.5);
+        }
+    50%{transform:scale(1.5);
+        }
+    65%{transform:scale(0.5);
+        }
+    80%{}
+
+    }
+
+#logo{position:absolute;
+       top:-2em;
+       left: 3em;
+       animation:mianimacion 3s ease-in-out 0s 1 normal none;
+       }
+       
+
+
+
+#FSO{font-family:Montserrat Subrayada;  
+      font-size:37px;
+      color: #406998;
+      text-align:center; 
+      }
+
+#Ingenieria{font-family:Lobster;
+            font-size:24px;
+            color: #406998;
+            margin-top:-2em;
+            
+            }
+
+#git {display:flex;
+      position:absolute;
+      top: 1em;
+      right:4em; 
+      border: 1px solid black;
+      height:45px;
+      width:66px;
+      
+      }
+
+
+#menuicono{display:none;
+           font-variant:small-caps;
+           background-color:white;
+           margin-top: 3em;
+           margin-left:-0.3em;
+           margin-right:-0.3em;
+           height:70px;
+           border:2px solid #244654;
+                                  }
+
+      
+h1 {
+    font-variant:small-caps;
+    background-color: white;
+    margin-top: 3em;
+    margin-left: -0.3em;
+    margin-right: -0.3em;
+    height: 70px;
+    /* color: #F5D0A9; */
+    border: 2px solid #244654;
+   /* animation:mianimacion 3s ease-in-out 0s 1 normal none;*/
+    }
+
+a{color:#1F618D;
+  font-family: modern 20;
+  font-style:italic;
+  font-size:20px;}
+
+ a:hover{color:#117A65;
+        letter-spacing:2px;}
+ 
+ #menuInicio{float:left;
+             padding-left:500px;
+             margin:5px; 
+             }
+
+
+
+ #menuPortfolio{float:left;
+                padding-left:25px; 
+                margin:5px;
+                }
+ 
+
+
+ #menuSobre{float:left;
+            padding-left:25px;
+            margin:5px;}
+
+
+ #menuContactar{float:left;
+                padding-left:25px;
+                margin:5px;
+
+                }
+ 
+ #caja{
+        height:300px;
+        background-color:#066396;
+        overflow:hidden;
+        border-radius: 35px 15px 35px 15px;
+        -moz-border-radius: 35px 0px 35px 0px;
+        /* -webkit-border-radius: 35px 0px 35px 0px; */
+        border: 2px solid #00364E;
+        display:flex;
+        /* animation:mianimacion 3s ease-in-out 0s 1 normal none;*/
+         }
+
+#Lista{font-family: Permanent Marker;
+       font-size:30px;
+       color: #bbd8e4;
+       text-align:justify;
+       padding-top: 48px;
+       }
+
+#caja2 { 
+        height:560px;
+        background-color: #328FB8;
+        margin-left: -0.5em;
+         margin-right: auto; 
+         border-top:1px solid;
+         border-bottom:1px solid;
+         border-right:1px solid;
+         margin-top: 1.3em;
+        display:flex;
+        /* animation:mianimacion 3s ease-in-out 0s 1 normal none;}*/
+        }
+ 
+ #caja3 {/.background-image: url("IMAGEN ORDENADOR 2.JPG");
+         /.background-repeat: no-repeat;
+         flex:1;
+         width: 400px;
+         height: 450px;
+         text-align:center;
+         font-family: Racing Sans One;
+         font-size:19px;
+         border-radius: 25px 10px 25px 10px;
+         border: 2px solid #00364E;
+         margin: 25px 20px 25px 65px;
+         background-color:white;
+         box-shadow: rgb(16, 33, 76) 5px 5px 10px 5px;
+         }
+         
+h2{font-size:23px;
+font-family: Permanent Marker;}
+
+#masAqui {font-size:15px;
+          margin-top: -0.8em;
+           text-align: center;}
+
+#caja4{ flex:1;
+         width:400px;
+         height:450px;
+        text-align:center;
+        font-family:Racing Sans One;
+        font-size:19px;
+        border-radius: 25px 54px 25px 54px;
+        border: 2px solid #00364E;
+        margin:25px 20px 25px 65px;
+        padding-right:5px;
+        background-color: white;
+        box-shadow:rgb(16,33,76) 5px 5px 10px 5px;
+        }
+
+#masAqui2{font-size:15px;
+           margin-top:-0.8em;
+           text-align: center; }
+
+#caja5{flex:1;
+        width:400px;
+        height:450px;
+        text-align:center;
+        font-family:Racing Sans One;
+        font-size:19px;
+        border-radius: 25px 54px 25px 54px;
+        border: 2px solid #00364E;
+        margin: 25px 60px 25px 65px;
+        background-color: white;
+        box-shadow:rgb(16,33,76) 5px 5px 10px 5px;}
+
+
+.restaurar{clear:both;}
+
+
+#masAqui3{font-size:15px;
+           margin-top:-0.8em;
+           text-align:center;}

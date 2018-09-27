@@ -1,0 +1,94 @@
+body{background-color:white;}
+
+#FSO{font-size:20px;}
+#Ingenieria{font-size:14px;}
+#logo{margin-top:39px;
+       margin-left:-16px;}
+#git > a > img {width:160%;
+                height:88%
+                }
+
+
+#git > a {padding-left:35px;
+          padding-top:15px;}
+
+#git{border:none;
+     }
+
+
+#menuPrincipal{display:none;
+                width:100%;
+                height;100%;
+                padding:0%;}
+
+
+#menuPrincipal > a {display:block;
+                     margin-right:0px;
+                     text-align:center;}
+
+#menuicono{display:block;
+            height:37px;
+            background-color:white;
+            }
+             
+#menupequeño {margin-left:10px;
+              margin-top:2px;}
+
+h1 > a{font-size:9px;}
+h1 {height:37px;
+    background-color:#F5D0A9;}
+
+#menuInicio{padding-left:15px;}
+
+#caja{width:100%;
+      height:auto;}
+
+#caja > img {width:50%;
+             height:150px;}
+
+#Lista {width:60%;
+        font-size:16px;
+        margin-top:-10px;}
+
+#caja2{flex-direction:column;
+       height:auto;
+       align-items:center;}
+
+#caja2 > div {width:60%;
+              margin-left:80px;
+              margin-right:80px;}
+                          
+
+#caja3{height:auto;}
+#caja3 > img {width:60%;
+              height:30%}
+#caja3 > h2 {font-size:15px;}
+#caja3 > p {font-size:14px;
+             margin-left:10px;
+             margin-right:10px;} 
+#masAqui{font-size:12px;}
+
+
+
+#caja4{height:auto;}
+#caja4 > img {width:60%;
+              height:30%;}
+#caja4 > h2 {font-size:15px;}
+#caja4 > p {font-size:14px;
+            margin-left:10px;
+            margin-right:10px;}
+#masAqui2{font-size:12px;}
+
+#caja5{height:auto;}
+#caja5 > img {width:60%;
+              height:30%;}
+#caja5 > h2 {font-size:15px;}
+#caja5 > p {font-size:14px;
+            margin-left:10px;
+            margin-right:10px;}
+
+
+              
+#masAqui3{font-size:12px;}
+
+

@@ -1,0 +1,22 @@
+#FSO{font-size:30px;}
+#Ingenieria{font-size:19px;}
+#logo{margin-top:16px;}
+h1 > a {font-size:18px;}
+#menuInicio{padding-left:120px;}
+
+#caja{width:100%;
+      height:auto;}
+
+#caja > img{width:50%;
+            height:230px;}
+
+#Lista {width:50%;
+        font-size:21px;}            
+
+#caja2 {flex-direction:column;
+        height:auto;
+         align-items:center;}
+
+#caja2 > div {width:60%;
+              margin-left:80px;
+              margin-right:80px;}
